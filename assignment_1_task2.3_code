@@ -1,0 +1,17 @@
+# ASSIGNMENT 1 : Task 2.3
+
+Write a Python program to reverse a word after accepting the input from the user.
+	
+Sample Output:
+Input word: AcadGild
+Output: dilGdacA
+
+## NOTE: Please refer README.md file to get instruction to run the program
+
+### Code: 
+
+	str1 = input("Enter a word to be reversed:")
+	print (str1[::-1])
+
+### Output Reference: 
+	screenshot_ass1_task2.3.png

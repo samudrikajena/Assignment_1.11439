@@ -1,0 +1,11 @@
+# ASSIGNMENT 1 : Task 1.1:
+
+Install Jupyter notebook and run the first program and share the screenshot of the output.
+
+## NOTE: Please refer README.md file to get instruction to run the program
+
+### Code: 
+	print("Hi Python!!! You are really cool.")
+
+### Output Reference: 
+	screenshot_ass1_task1.1.png

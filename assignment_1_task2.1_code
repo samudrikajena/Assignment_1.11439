@@ -1,0 +1,17 @@
+# ASSIGNMENT 1 : Task 2.1
+
+Write a program which accepts a sequence of comma-separated numbers from console and
+generate a list.
+
+## NOTE: Please refer README.md file to get instruction to run the program
+
+### Code: 
+
+	str1 = input("Enter a sequence of comma-separated numbers:")
+	numList = list(str1.split(","))
+	print(numList)
+
+	print(type(numList))
+
+### Output Reference: 
+	screenshot_ass1_task2.1.png
